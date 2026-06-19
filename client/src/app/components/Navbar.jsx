@@ -52,8 +52,8 @@ export default function Navbar() {
               href="/"
               className="font-bold text-2xl flex items-center tracking-tight select-none"
             >
-              <span className="text-[#0088ff]">hire</span>
-              <span className="text-[#ff6600]">loop</span>
+              <span className="text-[#0088ff]">Hire</span>
+              <span className="text-[#ff6600]">Loop</span>
             </Link>
           </div>
 
